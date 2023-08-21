@@ -1,4 +1,4 @@
-namespace SqsConsumer;
+namespace Sqs.Consumer;
 
 public class Worker : BackgroundService
 {

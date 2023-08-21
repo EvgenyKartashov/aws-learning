@@ -4,6 +4,7 @@
 	<PropertyGroup>
 		<!--<LangVersion>11.0</LangVersion>-->
 		<Nullable>enable</Nullable>
+		<RootNamespace>AWS.Learning</RootNamespace>
 	</PropertyGroup>
 	
 </Project>

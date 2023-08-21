@@ -1,4 +1,4 @@
-using SqsConsumer;
+using Sqs.Consumer;
 
 IHost host = Host.CreateDefaultBuilder(args)
     .ConfigureServices(services =>

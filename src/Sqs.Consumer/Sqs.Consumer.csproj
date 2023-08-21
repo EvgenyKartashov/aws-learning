@@ -4,7 +4,7 @@
     <TargetFramework>net7.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
-    <UserSecretsId>dotnet-SqsConsumer-67f490de-dbac-4b92-a270-4ccfa3207e1f</UserSecretsId>
+    <UserSecretsId>dotnet-Sqs.Consumer-55f37b42-9a36-47b6-9567-22f7c38f60f1</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
